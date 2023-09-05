@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\APM02-041\\Desktop\\CAMPUS\\CSharp\\practica01\\practica01.csproj": {}
+    "C:\\Users\\APM02-041\\Desktop\\CAMPUS\\CSharp\\practica02\\practica02.csproj": {}
   },
   "projects": {
-    "c:\\Users\\APM02-041\\Desktop\\CAMPUS\\CSharp\\practica01\\practica01.csproj": {
+    "C:\\Users\\APM02-041\\Desktop\\CAMPUS\\CSharp\\practica02\\practica02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APM02-041\\Desktop\\CAMPUS\\CSharp\\practica01\\practica01.csproj",
-        "projectName": "practica01",
-        "projectPath": "c:\\Users\\APM02-041\\Desktop\\CAMPUS\\CSharp\\practica01\\practica01.csproj",
+        "projectUniqueName": "C:\\Users\\APM02-041\\Desktop\\CAMPUS\\CSharp\\practica02\\practica02.csproj",
+        "projectName": "practica02",
+        "projectPath": "C:\\Users\\APM02-041\\Desktop\\CAMPUS\\CSharp\\practica02\\practica02.csproj",
         "packagesPath": "C:\\Users\\APM02-041\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APM02-041\\Desktop\\CAMPUS\\CSharp\\practica01\\obj\\",
+        "outputPath": "C:\\Users\\APM02-041\\Desktop\\CAMPUS\\CSharp\\practica02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM02-041\\AppData\\Roaming\\NuGet\\NuGet.Config"
