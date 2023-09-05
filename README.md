@@ -1,3 +1,3 @@
 # CSharp
 ## :hammer:Aprendiendo CSharp
-- `Practica 1`: Funciones basicas, condicionales, ejemplos, entre otras cosas
+- `Practica 01`: 04/09/23 Funciones basicas, condicionales, ejemplos, entre otras cosas
