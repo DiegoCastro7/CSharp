@@ -10,7 +10,6 @@ internal class Program
         /*Comentario
         en
         bloque*/
-
         int edad;
         Console.WriteLine("Ingrese su edad:");
         try{
