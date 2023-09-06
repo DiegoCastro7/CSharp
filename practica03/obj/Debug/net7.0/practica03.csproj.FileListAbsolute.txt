@@ -1,0 +1,14 @@
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica03\bin\Debug\net7.0\practica03.exe
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica03\bin\Debug\net7.0\practica03.deps.json
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica03\bin\Debug\net7.0\practica03.runtimeconfig.json
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica03\bin\Debug\net7.0\practica03.dll
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica03\bin\Debug\net7.0\practica03.pdb
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica03\obj\Debug\net7.0\practica03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica03\obj\Debug\net7.0\practica03.AssemblyInfoInputs.cache
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica03\obj\Debug\net7.0\practica03.AssemblyInfo.cs
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica03\obj\Debug\net7.0\practica03.csproj.CoreCompileInputs.cache
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica03\obj\Debug\net7.0\practica03.dll
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica03\obj\Debug\net7.0\refint\practica03.dll
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica03\obj\Debug\net7.0\practica03.pdb
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica03\obj\Debug\net7.0\practica03.genruntimeconfig.cache
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica03\obj\Debug\net7.0\ref\practica03.dll
