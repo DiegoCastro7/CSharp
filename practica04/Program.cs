@@ -28,7 +28,8 @@ internal class Program
                     }
                 }
     }
-    public string Ingresar() {
+    public static string Ingresar(){
+        Dictionary<string, string> Info = new Dictionary<string, string>();
         //Uso de instancias y objetos
         Estudiante estudiante = new Estudiante();
         //Implementar valor autoincrementable
@@ -37,9 +38,15 @@ internal class Program
         estudiante.Nombre = Console.ReadLine();
         Console.WriteLine("Ingrese el Email: ");
         estudiante.Email = Console.ReadLine();
-        Console.WriteLine("Ingrese el Sex: ");
+        Console.WriteLine("Ingrese el Sexo: ");
         estudiante.Sex = Console.ReadLine();
         Console.WriteLine("Ingrese el Edad: ");
         estudiante.Edad = int.Parse(Console.ReadLine());
+        Info.Add("Id", estudiante.Id);
+        Info.Add("Nombre", estudiante.Nombre);
+        Info.Add("Email", estudiante.Email);
+        Info.Add("Sex", estudiante.Sex);
+        //Info.Add("Edad", estudiante.Edad);
+        return Info;
     }
 }
