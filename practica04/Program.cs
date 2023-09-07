@@ -10,6 +10,7 @@ internal class Program
         //Relacionar la clase
         bool Bandera = true; 
         int seleccion = 0;
+        List<Estudiante> lstClase = new List<Estudiante>();
         while (Bandera)
                 {
                     Console.WriteLine("Seleccione lo que desea hacer:");
@@ -17,8 +18,11 @@ internal class Program
                     Console.WriteLine("2. Visualizar estudiantes");
                     Console.WriteLine("3. Salir");
                     seleccion = int.Parse(Console.ReadLine());
-                    if (seleccion ==1) {
-                        Ingresar();
+                    if (seleccion == 1) {
+                        Ingresar(lstClase);
+                    }
+                    if (seleccion == 2) {
+                        Visualizar(lstClase);
                     }
                     else if (seleccion == 3){
                         Bandera = false;
@@ -28,8 +32,7 @@ internal class Program
                     }
                 }
     }
-    public static string Ingresar(){
-        Dictionary<string, string> Info = new Dictionary<string, string>();
+    public static void Ingresar(List<Estudiante> lstClase){
         //Uso de instancias y objetos
         Estudiante estudiante = new Estudiante();
         //Implementar valor autoincrementable
@@ -42,11 +45,17 @@ internal class Program
         estudiante.Sex = Console.ReadLine();
         Console.WriteLine("Ingrese el Edad: ");
         estudiante.Edad = int.Parse(Console.ReadLine());
-        Info.Add("Id", estudiante.Id);
-        Info.Add("Nombre", estudiante.Nombre);
-        Info.Add("Email", estudiante.Email);
-        Info.Add("Sex", estudiante.Sex);
-        //Info.Add("Edad", estudiante.Edad);
-        return Info;
+        lstClase.Add(estudiante);
+        Console.Clear();
+    }
+    public static void Visualizar(List<Estudiante> lstClase){
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.WriteLine("{0,-36} {1,-30} {2,5} {3,5} {4,20}","Cod.Estudiante","Nombre Estudiante","Edad","Sexo","Correo Electronico");
+        foreach (Estudiante a in lstClase){
+            Console.WriteLine("{0,36} {1,-30} {2,5} {3,5} {4,20}",a.Id,a.Nombre,a.Edad,a.Sex,a.Email);
+        }
+        Console.ReadKey();
+        Console.Clear();
+        Console.ResetColor();
     }
 }
