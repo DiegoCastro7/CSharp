@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APM02-041\\Desktop\\CAMPUS\\CSharp\\ejercicio01\\ejercicio01.csproj": {}
+    "C:\\Users\\ferch\\OneDrive\\Escritorio\\Campus\\CSharp\\ejercicio01\\ejercicio01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APM02-041\\Desktop\\CAMPUS\\CSharp\\ejercicio01\\ejercicio01.csproj": {
+    "C:\\Users\\ferch\\OneDrive\\Escritorio\\Campus\\CSharp\\ejercicio01\\ejercicio01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APM02-041\\Desktop\\CAMPUS\\CSharp\\ejercicio01\\ejercicio01.csproj",
+        "projectUniqueName": "C:\\Users\\ferch\\OneDrive\\Escritorio\\Campus\\CSharp\\ejercicio01\\ejercicio01.csproj",
         "projectName": "ejercicio01",
-        "projectPath": "C:\\Users\\APM02-041\\Desktop\\CAMPUS\\CSharp\\ejercicio01\\ejercicio01.csproj",
-        "packagesPath": "C:\\Users\\APM02-041\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APM02-041\\Desktop\\CAMPUS\\CSharp\\ejercicio01\\obj\\",
+        "projectPath": "C:\\Users\\ferch\\OneDrive\\Escritorio\\Campus\\CSharp\\ejercicio01\\ejercicio01.csproj",
+        "packagesPath": "C:\\Users\\ferch\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferch\\OneDrive\\Escritorio\\Campus\\CSharp\\ejercicio01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APM02-041\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ferch\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
