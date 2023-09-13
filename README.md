@@ -5,3 +5,4 @@
 - `Practica 03`: 06/09/23 Estructuras de datos, List, Methodos(Funciones y Procedimientos), Better Coments"///" entre otras cosas
 - `Practica 04`: 06/09/23 Estructuras de datos, Creacion de clases entre otras cosas
 - `Ejercicio 01`: 07/09/23 Ejercicio programa para notas
+- `Ejercicio 01 V2`: 12/09/23 Ejercicio programa para notas, usando persistencia de datos
