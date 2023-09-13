@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using ejercicio01.entities;
+using ejercicio01.other_functions;
 
 internal class Program
 {
@@ -9,6 +10,7 @@ internal class Program
         bool Bandera = true; 
         int seleccion = 0;
         List<Estudiante> lstClase = new List<Estudiante>();
+        lstClase = DataPersistence.LoadData();
         List<Notas> lstNotas = new List<Notas>();
         while (Bandera)
                 {
@@ -31,6 +33,7 @@ internal class Program
                         {
                             case 1:
                                 Ingresar(lstClase,lstNotas);
+                                DataPersistence.SaveData(lstClase);
                                 break;
                             case 2:
                                 Visualizar(lstClase,lstNotas);

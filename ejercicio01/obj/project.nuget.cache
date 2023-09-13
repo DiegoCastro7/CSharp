@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/qQuQJeYTU4YNR0RuiMb75S3fsS4xOljVQPKuvHHScnrvDqMe41bBCztM4IbxbVQnLvStgAPqsjM0f9UeJBM2A==",
+  "dgSpecHash": "ygmHbL4Kzb3OgE9Nuf9F7tnyH7xPaLSWjwmHV/iCJJMirgkCf59e7T2rj7U6sih9JFhdAfITe3YWrjkgjhj85A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ferch\\OneDrive\\Escritorio\\Campus\\CSharp\\ejercicio01\\ejercicio01.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\APM02-041\\Desktop\\CAMPUS\\CSharp\\ejercicio01\\ejercicio01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\APM02-041\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
