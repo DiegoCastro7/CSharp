@@ -1,0 +1,14 @@
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\bin\Debug\net7.0\practica05.exe
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\bin\Debug\net7.0\practica05.deps.json
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\bin\Debug\net7.0\practica05.runtimeconfig.json
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\bin\Debug\net7.0\practica05.dll
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\bin\Debug\net7.0\practica05.pdb
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\obj\Debug\net7.0\practica05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\obj\Debug\net7.0\practica05.AssemblyInfoInputs.cache
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\obj\Debug\net7.0\practica05.AssemblyInfo.cs
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\obj\Debug\net7.0\practica05.csproj.CoreCompileInputs.cache
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\obj\Debug\net7.0\practica05.dll
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\obj\Debug\net7.0\refint\practica05.dll
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\obj\Debug\net7.0\practica05.pdb
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\obj\Debug\net7.0\practica05.genruntimeconfig.cache
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\obj\Debug\net7.0\ref\practica05.dll
