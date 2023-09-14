@@ -12,3 +12,6 @@ C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\obj\Debug\net7.0\refint\prac
 C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\obj\Debug\net7.0\practica05.pdb
 C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\obj\Debug\net7.0\practica05.genruntimeconfig.cache
 C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\obj\Debug\net7.0\ref\practica05.dll
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\obj\Debug\net7.0\practica05.csproj.AssemblyReference.cache
+C:\Users\APM02-041\Desktop\CAMPUS\CSharp\practica05\obj\Debug\net7.0\practica05.csproj.CopyComplete
