@@ -1,4 +1,4 @@
-# CSharp
+# CSharp ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/C%23-5C2D91?style=&logo=c-sharp&logoColor=white)
 ## :hammer:Aprendiendo CSharp
 ### Documentación
 ---
