@@ -3,6 +3,9 @@
 ### Documentación
 ---
 - `MD_CSharp`: Ejercicios de la documentacion y el megadocumento de CSharp
+### Bases de datos
+---
+- `BD_MySQL`: Bases de datos en MySQL
 ### Practicas
 ---
 - `Practica 01`: 04/09/23 Funciones basicas, condicionales, ejemplos, entre otras cosas
